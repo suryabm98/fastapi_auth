@@ -1,0 +1,22 @@
+fastapi 
+uvicorn
+pydantic
+joblib
+scikit-learn
+sqlalchemy
+# mysql
+mysqlclient
+pymysql #on windows prefered
+cryptography #hased password or sha256_password
+passlib[bcrypt]
+# postgresql
+psycopg2-binary
+
+# jwt token
+python-jose[cryptography]
+
+
+
+
+
+
