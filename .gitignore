@@ -1,0 +1,6 @@
+# .gitignore
+
+.fastapi_env/
+venv/
+.venv/
+env/
